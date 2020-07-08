@@ -1,0 +1,22 @@
+div {
+    width: 520px;
+    height: 520px;
+    background-color: #FFB300;
+}
+table {
+    background-color: #FFB300;
+    font-weight: bold;
+    text-align: center;
+    width: 500px;
+    height: 500px;
+    border-collapse: collapse;
+}
+.black {
+    background-color: black;
+}
+.white {
+    background-color: white;
+}
+.STT {
+    width: 40px;
+}
